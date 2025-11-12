@@ -1,0 +1,506 @@
+order_id,order_date,product_category,city,price,quantity,total_amount,payment_method
+ORD01347,2024-08-01,Electronics,Amman,619.54,1,619.54,Credit Card
+ORD01098,2024-08-01,Fashion,Zarqa,131.32,1,131.32,Cash on Delivery
+ORD01032,2024-08-01,Home & Kitchen,Amman,130.06,3,390.18,Credit Card
+ORD01006,2024-08-01,Electronics,Salt,568.89,3,1706.67,Cash on Delivery
+ORD01172,2024-08-01,Sports & Outdoors,Irbid,170.59,2,341.18,Cash on Delivery
+ORD01483,2024-08-01,Home & Kitchen,Amman,155.03,1,155.03,Credit Card
+ORD01238,2024-08-02,Electronics,Zarqa,657.09,1,657.09,Cash on Delivery
+ORD01429,2024-08-03,Sports & Outdoors,Amman,151.9,1,151.9,Cash on Delivery
+ORD01119,2024-08-03,Beauty & Health,Irbid,87.49,2,174.98,Cash on Delivery
+ORD01495,2024-08-03,Electronics,Amman,691.34,1,691.34,Cash on Delivery
+ORD01299,2024-08-03,Books & Stationery,Zarqa,23.55,1,23.55,Digital Wallet
+ORD01182,2024-08-03,Fashion,Irbid,115.28,1,115.28,Credit Card
+ORD01352,2024-08-03,Home & Kitchen,Amman,91.8,1,91.8,Digital Wallet
+ORD01358,2024-08-03,Electronics,Amman,213.97,1,213.97,Credit Card
+ORD01258,2024-08-03,Electronics,Amman,166.23,2,332.46,Digital Wallet
+ORD01126,2024-08-04,Fashion,Amman,157.42,1,157.42,Cash on Delivery
+ORD01103,2024-08-04,Home & Kitchen,Irbid,140.02,1,140.02,Digital Wallet
+ORD01402,2024-08-04,Books & Stationery,Jerash,27.35,2,54.7,Cash on Delivery
+ORD01181,2024-08-04,Sports & Outdoors,Irbid,136.32,1,136.32,Cash on Delivery
+ORD01125,2024-08-04,Books & Stationery,Irbid,47.39,1,47.39,Digital Wallet
+ORD01216,2024-08-04,Electronics,Amman,500.32,2,1000.64,Cash on Delivery
+ORD01123,2024-08-04,Sports & Outdoors,Aqaba,140.77,2,281.54,Cash on Delivery
+ORD01377,2024-08-05,Fashion,Jerash,20.0,2,40.0,Digital Wallet
+ORD01494,2024-08-05,Fashion,Irbid,163.51,3,490.53,Digital Wallet
+ORD01496,2024-08-05,Sports & Outdoors,Salt,105.4,1,105.4,Credit Card
+ORD01357,2024-08-06,Fashion,Amman,122.6,1,122.6,Digital Wallet
+ORD01078,2024-08-06,Fashion,Aqaba,84.52,1,84.52,Credit Card
+ORD01364,2024-08-06,Fashion,Irbid,87.0,2,174.0,Cash on Delivery
+ORD01139,2024-08-06,Fashion,Aqaba,77.81,1,77.81,Cash on Delivery
+ORD01419,2024-08-06,Home & Kitchen,Irbid,179.43,1,179.43,
+ORD01350,2024-08-07,Books & Stationery,Irbid,19.04,1,19.04,Cash on Delivery
+ORD01163,2024-08-07,Home & Kitchen,Amman,260.19,1,260.19,Credit Card
+ORD01108,2024-08-07,Electronics,Zarqa,697.54,1,697.54,Credit Card
+ORD01165,2024-08-07,Home & Kitchen,Amman,87.57,1,87.57,Credit Card
+ORD01451,2024-08-07,Home & Kitchen,Amman,152.2,1,152.2,Digital Wallet
+ORD01227,2024-08-07,Beauty & Health,Irbid,91.96,1,91.96,Credit Card
+ORD01276,2024-08-07,Fashion,Zarqa,100.06,1,100.06,Credit Card
+ORD01024,2024-08-07,Electronics,Aqaba,461.91,1,461.91,Credit Card
+ORD01057,2024-08-08,Home & Kitchen,Amman,107.48,1,107.48,Digital Wallet
+ORD01456,2024-08-08,Electronics,Aqaba,511.1,1,511.1,Cash on Delivery
+ORD01315,2024-08-08,Fashion,Salt,80.67,1,80.67,Credit Card
+ORD01310,2024-08-08,Electronics,Amman,531.99,1,531.99,Cash on Delivery
+ORD01274,2024-08-08,Home & Kitchen,Amman,172.75,2,345.5,Digital Wallet
+ORD01437,2024-08-08,Home & Kitchen,Amman,87.97,1,87.97,Cash on Delivery
+ORD01054,2024-08-08,Electronics,Zarqa,486.64,1,486.64,Credit Card
+ORD01396,2024-08-08,Home & Kitchen,Amman,248.1,1,248.1,Credit Card
+ORD01140,2024-08-09,Fashion,Amman,140.58,1,140.58,Cash on Delivery
+ORD01485,2024-08-09,Electronics,Amman,609.56,2,1219.12,
+ORD01019,2024-08-09,Home & Kitchen,Salt,156.54,1,156.54,Credit Card
+ORD01060,2024-08-09,Fashion,Zarqa,121.75,1,121.75,Credit Card
+ORD01351,2024-08-09,Home & Kitchen,Irbid,211.44,1,211.44,Cash on Delivery
+ORD01306,2024-08-10,Books & Stationery,Irbid,42.89,1,42.89,Cash on Delivery
+ORD01104,2024-08-10,Books & Stationery,Irbid,22.14,1,22.14,Credit Card
+ORD01051,2024-08-10,Home & Kitchen,,99.89,2,199.78,Credit Card
+ORD01385,2024-08-10,Sports & Outdoors,Zarqa,148.64,1,148.64,Credit Card
+ORD01477,2024-08-10,Electronics,Amman,341.47,1,341.47,Cash on Delivery
+ORD01380,2024-08-10,Home & Kitchen,Zarqa,237.77,1,237.77,Cash on Delivery
+ORD01375,2024-08-10,Fashion,Zarqa,98.32,1,98.32,Cash on Delivery
+ORD01236,2024-08-10,Fashion,Aqaba,170.92,2,341.84,Digital Wallet
+ORD01355,2024-08-11,Electronics,Irbid,91.49,1,91.49,Cash on Delivery
+ORD01115,2024-08-11,Fashion,Zarqa,131.3,3,393.9,Digital Wallet
+ORD01476,2024-08-11,Home & Kitchen,Salt,257.92,1,257.92,Cash on Delivery
+ORD01149,2024-08-11,Fashion,Irbid,88.63,1,88.63,Cash on Delivery
+ORD01370,2024-08-11,Electronics,Irbid,344.96,1,344.96,Credit Card
+ORD01340,2024-08-11,Fashion,Zarqa,161.47,1,161.47,Cash on Delivery
+ORD01288,2024-08-11,Books & Stationery,Zarqa,17.63,2,35.26,Cash on Delivery
+ORD01480,2024-08-12,Home & Kitchen,Amman,137.42,1,137.42,Cash on Delivery
+ORD01188,2024-08-12,Fashion,Amman,110.95,2,221.9,Digital Wallet
+ORD01046,2024-08-13,Fashion,Zarqa,180.41,1,180.41,Cash on Delivery
+ORD01208,2024-08-13,Home & Kitchen,Amman,142.29,1,142.29,Digital Wallet
+ORD01244,2024-08-13,Home & Kitchen,Amman,194.15,1,194.15,Cash on Delivery
+ORD01273,2024-08-13,Fashion,Amman,78.51,2,157.02,Cash on Delivery
+ORD01450,2024-08-14,Books & Stationery,Amman,10.91,1,10.91,Credit Card
+ORD01186,2024-08-14,Fashion,Zarqa,146.61,2,293.22,Digital Wallet
+ORD01083,2024-08-14,Electronics,Irbid,278.14,2,556.28,Credit Card
+ORD01339,2024-08-14,Home & Kitchen,Amman,52.15,1,52.15,Credit Card
+ORD01070,2024-08-14,Electronics,Amman,800.0,1,800.0,Credit Card
+ORD01008,2024-08-14,Electronics,Zarqa,526.73,1,526.73,Credit Card
+ORD01278,2024-08-14,Home & Kitchen,Zarqa,116.47,1,116.47,Credit Card
+ORD01002,2024-08-14,Home & Kitchen,Amman,147.65,1,147.65,Cash on Delivery
+ORD01049,2024-08-14,Electronics,Irbid,383.81,1,383.81,Cash on Delivery
+ORD01462,2024-08-15,Sports & Outdoors,Zarqa,175.83,2,351.66,Digital Wallet
+ORD01268,2024-08-15,Books & Stationery,Jerash,21.6,1,21.6,Cash on Delivery
+ORD01027,2024-08-15,Home & Kitchen,Madaba,149.26,1,149.26,Credit Card
+ORD01349,2024-08-15,Fashion,Amman,97.86,1,97.86,Credit Card
+ORD01489,2024-08-16,Fashion,Irbid,117.49,1,117.49,Credit Card
+ORD01445,2024-08-16,Home & Kitchen,Zarqa,155.01,1,155.01,Cash on Delivery
+ORD01275,2024-08-16,Sports & Outdoors,Madaba,131.18,2,262.36,Cash on Delivery
+ORD01178,2024-08-16,Fashion,Salt,123.83,2,247.66,Cash on Delivery
+ORD01096,2024-08-17,Sports & Outdoors,Zarqa,97.32,1,97.32,Digital Wallet
+ORD01324,2024-08-17,Electronics,Amman,311.75,1,311.75,Cash on Delivery
+ORD01232,2024-08-17,Fashion,Amman,192.42,2,384.84,Digital Wallet
+ORD01207,2024-08-17,Fashion,Amman,77.67,1,77.67,Cash on Delivery
+ORD01074,2024-08-17,Electronics,Madaba,565.99,1,565.99,Cash on Delivery
+ORD01481,2024-08-17,Home & Kitchen,Irbid,85.95,1,85.95,Credit Card
+ORD01160,2024-08-17,Electronics,Irbid,232.93,1,232.93,Credit Card
+ORD01391,2024-08-17,Electronics,Amman,658.64,1,658.64,Credit Card
+ORD01044,2024-08-17,Home & Kitchen,Irbid,111.54,1,111.54,Cash on Delivery
+ORD01360,2024-08-18,Home & Kitchen,Amman,209.21,2,418.42,Digital Wallet
+ORD01346,2024-08-18,Home & Kitchen,Zarqa,123.47,2,246.94,Cash on Delivery
+ORD01243,2024-08-18,Fashion,Irbid,115.41,1,115.41,Credit Card
+ORD01050,2024-08-18,Fashion,Zarqa,126.07,1,126.07,Credit Card
+ORD01345,2024-08-19,Fashion,Irbid,113.22,1,113.22,Digital Wallet
+ORD01265,2024-08-19,Fashion,Irbid,107.18,1,107.18,Digital Wallet
+ORD01021,2024-08-19,Fashion,Madaba,147.01,1,147.01,Cash on Delivery
+ORD01220,2024-08-19,Books & Stationery,Amman,39.35,1,39.35,Cash on Delivery
+ORD01408,2024-08-19,Sports & Outdoors,Amman,67.12,2,134.24,Digital Wallet
+ORD01283,2024-08-19,Fashion,Amman,104.24,1,104.24,Credit Card
+ORD01209,2024-08-19,Books & Stationery,Amman,44.29,1,44.29,Credit Card
+ORD01341,2024-08-19,Electronics,Amman,543.65,2,1087.3,Cash on Delivery
+ORD01353,2024-08-19,Electronics,Irbid,502.52,1,502.52,Cash on Delivery
+ORD01077,2024-08-19,Electronics,Amman,239.27,1,239.27,Cash on Delivery
+ORD01348,2024-08-20,Books & Stationery,Irbid,25.49,2,50.98,Cash on Delivery
+ORD01322,2024-08-20,Home & Kitchen,Aqaba,143.03,3,429.09,Credit Card
+ORD01080,2024-08-20,Fashion,Amman,113.09,1,113.09,Credit Card
+ORD01287,2024-08-20,Books & Stationery,Amman,23.61,1,23.61,Digital Wallet
+ORD01493,2024-08-20,Sports & Outdoors,Jerash,101.65,1,101.65,Credit Card
+ORD01116,2024-08-20,Electronics,Zarqa,411.34,2,822.68,Cash on Delivery
+ORD01379,2024-08-20,Fashion,Zarqa,193.2,1,193.2,Cash on Delivery
+ORD01135,2024-08-21,Home & Kitchen,Amman,300.0,1,300.0,Credit Card
+ORD01471,2024-08-21,Home & Kitchen,Salt,176.53,1,176.53,Digital Wallet
+ORD01171,2024-08-21,Home & Kitchen,Amman,146.69,3,440.07,Credit Card
+ORD01053,2024-08-22,Home & Kitchen,Amman,222.72,2,445.44,Cash on Delivery
+ORD01134,2024-08-22,Beauty & Health,Salt,71.71,1,71.71,Credit Card
+ORD01124,2024-08-22,Electronics,Irbid,210.69,1,210.69,Cash on Delivery
+ORD01397,2024-08-22,Sports & Outdoors,Amman,178.09,1,178.09,Credit Card
+ORD01097,2024-08-23,Fashion,Zarqa,193.96,1,193.96,Cash on Delivery
+ORD01256,2024-08-23,Electronics,Amman,559.54,1,559.54,Credit Card
+ORD01439,2024-08-23,Home & Kitchen,Amman,192.65,1,192.65,Cash on Delivery
+ORD01305,2024-08-23,Beauty & Health,Jerash,59.81,1,59.81,Digital Wallet
+ORD01361,2024-08-23,Sports & Outdoors,Zarqa,93.04,1,93.04,Digital Wallet
+ORD01183,2024-08-23,Books & Stationery,Zarqa,40.02,2,80.04,Credit Card
+ORD01328,2024-08-24,Beauty & Health,Irbid,65.58,1,65.58,Credit Card
+ORD01486,2024-08-24,Beauty & Health,Aqaba,72.51,1,72.51,Digital Wallet
+ORD01382,2024-08-24,Fashion,Irbid,60.21,3,180.63,Credit Card
+ORD01184,2024-08-24,Books & Stationery,Irbid,29.72,1,29.72,Credit Card
+ORD01127,2024-08-24,Fashion,Amman,133.18,2,266.36,Credit Card
+ORD01413,2024-08-25,Home & Kitchen,Irbid,15.0,1,15.0,Cash on Delivery
+ORD01229,2024-08-25,Sports & Outdoors,Madaba,86.96,2,173.92,Digital Wallet
+ORD01084,2024-08-26,Home & Kitchen,Amman,134.55,2,269.1,Credit Card
+ORD01455,2024-08-26,Fashion,Amman,147.53,1,147.53,Digital Wallet
+ORD01389,2024-08-26,Fashion,Irbid,98.53,1,98.53,Credit Card
+ORD01443,2024-08-27,Home & Kitchen,Amman,239.39,1,239.39,Cash on Delivery
+ORD01436,2024-08-27,Beauty & Health,Irbid,30.77,1,30.77,Cash on Delivery
+ORD01170,2024-08-27,Fashion,Aqaba,54.3,1,54.3,Credit Card
+ORD01066,2024-08-28,Electronics,Amman,411.04,1,411.04,Credit Card
+ORD01133,2024-08-28,Fashion,Jerash,75.22,1,75.22,Cash on Delivery
+ORD01269,2024-08-28,Fashion,Zarqa,105.18,1,105.18,Credit Card
+ORD01020,2024-08-28,Fashion,Aqaba,62.4,2,124.8,Cash on Delivery
+ORD01490,2024-08-29,Beauty & Health,Amman,97.24,1,97.24,Credit Card
+ORD01195,2024-08-29,Electronics,Zarqa,422.7,1,422.7,Credit Card
+ORD01040,2024-08-29,Electronics,Irbid,390.19,1,390.19,Cash on Delivery
+ORD01122,2024-08-29,Fashion,Zarqa,116.92,3,350.76,Cash on Delivery
+ORD01302,2024-08-29,Electronics,Amman,269.2,3,807.6,Cash on Delivery
+ORD01107,2024-08-29,Sports & Outdoors,Irbid,138.23,1,138.23,Cash on Delivery
+ORD01023,2024-08-29,Home & Kitchen,Amman,62.87,3,188.61,Digital Wallet
+ORD01329,2024-08-29,Electronics,Amman,498.96,1,498.96,Credit Card
+ORD01155,2024-08-30,Electronics,Amman,662.55,1,662.55,Credit Card
+ORD01085,2024-08-30,Books & Stationery,Amman,43.69,2,87.38,Cash on Delivery
+ORD01452,2024-08-30,Fashion,Amman,137.93,1,137.93,Digital Wallet
+ORD01295,2024-08-30,Sports & Outdoors,Zarqa,189.6,1,189.6,Credit Card
+ORD01432,2024-08-30,Home & Kitchen,Irbid,66.33,1,66.33,Credit Card
+ORD01041,2024-08-30,Electronics,Amman,577.35,2,1154.7,Digital Wallet
+ORD01018,2024-08-30,Fashion,Zarqa,96.87,1,96.87,Credit Card
+ORD01228,2024-08-30,Fashion,Amman,194.43,2,388.86,Digital Wallet
+ORD01457,2024-08-30,Sports & Outdoors,Amman,161.67,1,161.67,Credit Card
+ORD01150,2024-08-31,Books & Stationery,Salt,23.52,1,23.52,Cash on Delivery
+ORD01102,2024-08-31,Fashion,Amman,128.58,1,128.58,Credit Card
+ORD01468,2024-08-31,Fashion,Amman,69.74,1,69.74,Credit Card
+ORD01335,2024-08-31,Home & Kitchen,Amman,158.81,1,158.81,Cash on Delivery
+ORD01043,2024-08-31,Home & Kitchen,Amman,183.27,1,183.27,Cash on Delivery
+ORD01354,2024-08-31,Electronics,Aqaba,776.9,1,776.9,Digital Wallet
+ORD01470,2024-08-31,Electronics,Zarqa,461.85,1,461.85,Credit Card
+ORD01034,2024-08-31,Electronics,Amman,539.69,2,1079.38,Digital Wallet
+ORD01145,2024-09-01,Home & Kitchen,Irbid,101.03,1,101.03,Digital Wallet
+ORD01411,2024-09-01,Electronics,Amman,133.13,1,133.13,Cash on Delivery
+ORD01016,2024-09-01,Fashion,Amman,114.99,1,114.99,Digital Wallet
+ORD01497,2024-09-01,Fashion,Zarqa,85.15,1,85.15,Credit Card
+ORD01112,2024-09-01,Fashion,Jerash,131.71,3,395.13,Digital Wallet
+ORD01067,2024-09-01,Electronics,Zarqa,65.23,1,65.23,Cash on Delivery
+ORD01166,2024-09-01,Beauty & Health,Zarqa,96.17,1,96.17,Cash on Delivery
+ORD01045,2024-09-01,Fashion,Amman,108.39,1,108.39,Credit Card
+ORD01463,2024-09-02,Electronics,Madaba,600.93,1,600.93,Credit Card
+ORD01448,2024-09-02,Fashion,Amman,84.69,1,84.69,Cash on Delivery
+ORD01338,2024-09-02,Home & Kitchen,Zarqa,15.0,1,15.0,Cash on Delivery
+ORD01293,2024-09-02,Electronics,Amman,230.52,1,230.52,Cash on Delivery
+ORD01221,2024-09-02,Home & Kitchen,Amman,300.0,1,300.0,Digital Wallet
+ORD01029,2024-09-03,Electronics,Irbid,338.63,1,338.63,Credit Card
+ORD01072,2024-09-03,Fashion,Amman,123.57,1,123.57,Credit Card
+ORD01418,2024-09-03,Beauty & Health,Zarqa,85.26,1,85.26,Cash on Delivery
+ORD01403,2024-09-03,Beauty & Health,Irbid,67.37,1,67.37,Cash on Delivery
+ORD01089,2024-09-03,Books & Stationery,Zarqa,36.07,1,36.07,Credit Card
+ORD01383,2024-09-03,Sports & Outdoors,Zarqa,250.0,1,250.0,Credit Card
+ORD01192,2024-09-04,Fashion,Zarqa,200.0,1,200.0,Digital Wallet
+ORD01367,2024-09-04,Fashion,Zarqa,112.51,1,112.51,Cash on Delivery
+ORD01449,2024-09-04,Sports & Outdoors,Amman,172.48,1,172.48,Credit Card
+ORD01179,2024-09-04,Home & Kitchen,Zarqa,98.43,1,98.43,Credit Card
+ORD01197,2024-09-04,Home & Kitchen,Irbid,226.98,1,226.98,Credit Card
+ORD01157,2024-09-05,Beauty & Health,Irbid,95.53,1,95.53,Cash on Delivery
+ORD01279,2024-09-05,Fashion,Irbid,41.82,1,41.82,Digital Wallet
+ORD01248,2024-09-05,Fashion,Amman,115.21,2,230.42,Cash on Delivery
+ORD01158,2024-09-06,Electronics,Amman,570.24,1,570.24,Credit Card
+ORD01201,2024-09-06,Books & Stationery,Irbid,35.87,1,35.87,Digital Wallet
+ORD01114,2024-09-06,Fashion,Amman,142.13,2,284.26,Cash on Delivery
+ORD01417,2024-09-06,Electronics,Zarqa,446.42,1,446.42,Credit Card
+ORD01416,2024-09-06,Books & Stationery,Aqaba,37.99,1,37.99,Cash on Delivery
+ORD01334,2024-09-06,Home & Kitchen,Amman,85.67,1,85.67,Cash on Delivery
+ORD01447,2024-09-06,Fashion,Zarqa,141.85,1,141.85,Digital Wallet
+ORD01214,2024-09-06,Electronics,Zarqa,269.89,1,269.89,Credit Card
+ORD01173,2024-09-07,Fashion,Salt,122.64,1,122.64,Credit Card
+ORD01499,2024-09-07,Sports & Outdoors,Irbid,224.55,1,224.55,
+ORD01464,2024-09-07,Beauty & Health,Amman,61.94,1,61.94,Credit Card
+ORD01442,2024-09-08,Beauty & Health,Amman,84.27,1,84.27,Digital Wallet
+ORD01064,2024-09-08,Beauty & Health,Amman,94.14,1,94.14,Credit Card
+ORD01405,2024-09-08,Sports & Outdoors,Zarqa,170.86,1,170.86,Credit Card
+ORD01138,2024-09-08,Books & Stationery,Amman,47.47,1,47.47,Cash on Delivery
+ORD01372,2024-09-09,Sports & Outdoors,Zarqa,44.41,2,88.82,Credit Card
+ORD01194,2024-09-09,Home & Kitchen,Zarqa,213.91,1,213.91,Credit Card
+ORD01472,2024-09-09,Books & Stationery,Amman,44.73,1,44.73,Cash on Delivery
+ORD01177,2024-09-09,Home & Kitchen,Amman,221.6,1,221.6,Cash on Delivery
+ORD01282,2024-09-09,Fashion,Amman,124.01,1,124.01,Credit Card
+ORD01058,2024-09-10,Home & Kitchen,Irbid,134.15,1,134.15,Cash on Delivery
+ORD01205,2024-09-10,Sports & Outdoors,Zarqa,56.05,2,112.1,Cash on Delivery
+ORD01090,2024-09-10,Home & Kitchen,Amman,213.2,1,213.2,Cash on Delivery
+ORD01381,2024-09-10,Fashion,Amman,97.9,1,97.9,Credit Card
+ORD01344,2024-09-10,Sports & Outdoors,Aqaba,89.7,1,89.7,Credit Card
+ORD01371,2024-09-11,Fashion,Aqaba,64.46,1,64.46,Credit Card
+ORD01286,2024-09-11,Books & Stationery,Amman,12.94,1,12.94,Credit Card
+ORD01467,2024-09-11,Electronics,Amman,660.45,1,660.45,Cash on Delivery
+ORD01438,2024-09-11,Home & Kitchen,Zarqa,232.57,1,232.57,Credit Card
+ORD01117,2024-09-12,Fashion,Amman,71.89,2,143.78,Credit Card
+ORD01320,2024-09-12,Electronics,Irbid,695.29,1,695.29,Digital Wallet
+ORD01086,2024-09-12,Electronics,Jerash,194.21,1,194.21,Credit Card
+ORD01088,2024-09-12,Fashion,Amman,118.31,2,236.62,Cash on Delivery
+ORD01253,2024-09-12,Home & Kitchen,Amman,232.91,1,232.91,Credit Card
+ORD01319,2024-09-13,Electronics,Aqaba,524.34,1,524.34,Digital Wallet
+ORD01007,2024-09-13,Fashion,Jerash,88.87,1,88.87,Credit Card
+ORD01423,2024-09-13,Beauty & Health,Amman,61.11,1,61.11,Credit Card
+ORD01409,2024-09-14,Beauty & Health,Zarqa,61.7,1,61.7,Cash on Delivery
+ORD01323,2024-09-14,Sports & Outdoors,Aqaba,158.38,2,316.76,Cash on Delivery
+ORD01446,2024-09-14,Electronics,Amman,757.03,1,757.03,Credit Card
+ORD01444,2024-09-14,Sports & Outdoors,Amman,97.95,1,97.95,Credit Card
+ORD01087,2024-09-14,Fashion,Aqaba,37.66,1,37.66,Cash on Delivery
+ORD01342,2024-09-14,Fashion,Amman,200.0,1,200.0,Cash on Delivery
+ORD01290,2024-09-14,Fashion,Aqaba,149.67,1,149.67,Digital Wallet
+ORD01257,2024-09-15,Fashion,Irbid,183.29,2,366.58,Credit Card
+ORD01366,2024-09-15,Electronics,Aqaba,401.41,2,802.82,Credit Card
+ORD01374,2024-09-15,Fashion,Aqaba,51.72,1,51.72,Credit Card
+ORD01440,2024-09-15,Sports & Outdoors,Aqaba,147.9,1,147.9,Digital Wallet
+ORD01378,2024-09-16,Home & Kitchen,Amman,153.63,1,153.63,Cash on Delivery
+ORD01333,2024-09-16,Fashion,Zarqa,20.0,1,20.0,Cash on Delivery
+ORD01420,2024-09-16,Electronics,Zarqa,104.34,1,104.34,Cash on Delivery
+ORD01159,2024-09-16,Electronics,Salt,50.0,1,50.0,Cash on Delivery
+ORD01300,2024-09-16,Electronics,Amman,333.66,1,333.66,Cash on Delivery
+ORD01390,2024-09-16,Fashion,Zarqa,177.68,1,177.68,Cash on Delivery
+ORD01033,2024-09-16,Fashion,Amman,79.54,1,79.54,Credit Card
+ORD01011,2024-09-16,Sports & Outdoors,Amman,80.53,1,80.53,Credit Card
+ORD01318,2024-09-17,Fashion,Zarqa,84.04,1,84.04,Digital Wallet
+ORD01250,2024-09-17,Books & Stationery,Zarqa,56.64,1,56.64,Credit Card
+ORD01217,2024-09-17,Fashion,Irbid,120.08,1,120.08,Cash on Delivery
+ORD01153,2024-09-17,Home & Kitchen,Amman,300.0,1,300.0,Cash on Delivery
+ORD01240,2024-09-17,Fashion,Irbid,112.11,2,224.22,Credit Card
+ORD01031,2024-09-17,Home & Kitchen,Jerash,180.59,1,180.59,Cash on Delivery
+ORD01014,2024-09-17,Sports & Outdoors,Amman,124.8,1,124.8,Digital Wallet
+ORD01492,2024-09-18,Fashion,Zarqa,86.11,1,86.11,Credit Card
+ORD01219,2024-09-18,Fashion,Irbid,111.1,1,111.1,Cash on Delivery
+ORD01212,2024-09-18,Sports & Outdoors,Jerash,121.26,1,121.26,Cash on Delivery
+ORD01325,2024-09-18,Fashion,Amman,113.9,1,113.9,Digital Wallet
+ORD01013,2024-09-18,Books & Stationery,Zarqa,52.65,1,52.65,Credit Card
+ORD01010,2024-09-18,Fashion,Aqaba,23.9,1,23.9,Cash on Delivery
+ORD01146,2024-09-18,Home & Kitchen,Amman,149.33,3,447.99,Credit Card
+ORD01321,2024-09-19,Sports & Outdoors,Aqaba,169.96,2,339.92,Cash on Delivery
+ORD01224,2024-09-19,Electronics,Amman,273.44,1,273.44,Cash on Delivery
+ORD01211,2024-09-20,Fashion,Aqaba,109.17,1,109.17,Cash on Delivery
+ORD01296,2024-09-20,Electronics,Zarqa,783.02,3,2349.06,Credit Card
+ORD01392,2024-09-20,Home & Kitchen,Irbid,15.0,1,15.0,Cash on Delivery
+ORD01251,2024-09-20,Electronics,Zarqa,546.01,1,546.01,Credit Card
+ORD01466,2024-09-21,Electronics,Amman,367.03,1,367.03,Cash on Delivery
+ORD01152,2024-09-21,Fashion,Aqaba,151.3,1,151.3,Cash on Delivery
+ORD01164,2024-09-21,Home & Kitchen,Aqaba,55.19,2,110.38,Digital Wallet
+ORD01189,2024-09-21,Electronics,Aqaba,485.78,3,1457.34,Cash on Delivery
+ORD01095,2024-09-22,Sports & Outdoors,Amman,153.99,1,153.99,Cash on Delivery
+ORD01081,2024-09-22,Sports & Outdoors,Amman,85.78,2,171.56,Cash on Delivery
+ORD01393,2024-09-22,Electronics,Amman,161.09,1,161.09,Credit Card
+ORD01118,2024-09-23,Beauty & Health,Irbid,26.98,1,26.98,Digital Wallet
+ORD01407,2024-09-23,Fashion,Amman,124.68,1,124.68,Cash on Delivery
+ORD01233,2024-09-23,Electronics,Irbid,646.15,3,1938.45,Cash on Delivery
+ORD01121,2024-09-23,Sports & Outdoors,Irbid,87.78,1,87.78,Cash on Delivery
+ORD01246,2024-09-23,Sports & Outdoors,Amman,209.37,1,209.37,Cash on Delivery
+ORD01200,2024-09-23,Home & Kitchen,Amman,117.33,1,117.33,Credit Card
+ORD01458,2024-09-23,Electronics,Amman,463.94,1,463.94,Cash on Delivery
+ORD01259,2024-09-23,Beauty & Health,Amman,20.38,1,20.38,Cash on Delivery
+ORD01129,2024-09-23,Electronics,Irbid,521.57,1,521.57,Credit Card
+ORD01327,2024-09-24,Electronics,Zarqa,488.3,1,488.3,Credit Card
+ORD01223,2024-09-24,Home & Kitchen,Amman,300.0,1,300.0,Credit Card
+ORD01484,2024-09-24,Electronics,Irbid,468.92,1,468.92,Credit Card
+ORD01037,2024-09-24,Home & Kitchen,Madaba,97.71,2,195.42,Digital Wallet
+ORD01271,2024-09-24,Fashion,Zarqa,198.41,1,198.41,Credit Card
+ORD01003,2024-09-24,Electronics,Amman,381.1,1,381.1,Credit Card
+ORD01142,2024-09-25,Home & Kitchen,Aqaba,111.07,1,111.07,Credit Card
+ORD01294,2024-09-25,Fashion,Irbid,101.43,1,101.43,Digital Wallet
+ORD01093,2024-09-25,Fashion,Irbid,79.4,1,79.4,Credit Card
+ORD01168,2024-09-26,Books & Stationery,Zarqa,27.2,1,27.2,Credit Card
+ORD01317,2024-09-26,Books & Stationery,Amman,46.34,1,46.34,Cash on Delivery
+ORD01368,2024-09-26,Fashion,Amman,159.24,1,159.24,Cash on Delivery
+ORD01039,2024-09-26,Home & Kitchen,Amman,123.36,1,123.36,Credit Card
+ORD01249,2024-09-26,Fashion,Amman,200.0,2,400.0,Digital Wallet
+ORD01435,2024-09-26,Electronics,Zarqa,310.34,1,310.34,Digital Wallet
+ORD01264,2024-09-26,Electronics,Amman,248.77,1,248.77,Cash on Delivery
+ORD01110,2024-09-26,Sports & Outdoors,Irbid,89.28,1,89.28,Cash on Delivery
+ORD01260,2024-09-27,Home & Kitchen,Irbid,153.54,3,460.62,Credit Card
+ORD01151,2024-09-27,Electronics,Amman,188.58,3,565.74,Credit Card
+ORD01261,2024-09-27,Books & Stationery,Amman,5.0,1,5.0,Digital Wallet
+ORD01311,2024-09-27,Fashion,Amman,36.76,1,36.76,Credit Card
+ORD01421,2024-09-27,Fashion,Irbid,117.69,3,353.07,Digital Wallet
+ORD01285,2024-09-28,Fashion,Amman,75.96,1,75.96,Digital Wallet
+ORD01267,2024-09-28,Home & Kitchen,Amman,119.72,1,119.72,Digital Wallet
+ORD01270,2024-09-28,Sports & Outdoors,Amman,79.27,1,79.27,Credit Card
+ORD01245,2024-09-28,Beauty & Health,Salt,26.31,1,26.31,Cash on Delivery
+ORD01055,2024-09-28,Sports & Outdoors,Madaba,142.96,2,285.92,Cash on Delivery
+ORD01065,2024-09-28,Electronics,Amman,473.29,3,1419.87,Cash on Delivery
+ORD01363,2024-09-28,Fashion,Amman,181.69,2,363.38,Credit Card
+ORD01406,2024-09-28,Electronics,Amman,366.96,1,366.96,Cash on Delivery
+ORD01128,2024-09-28,Beauty & Health,Zarqa,97.98,2,195.96,Credit Card
+ORD01297,2024-09-28,Fashion,,47.06,1,47.06,Cash on Delivery
+ORD01198,2024-09-28,Fashion,Amman,103.38,1,103.38,Cash on Delivery
+ORD01190,2024-09-29,Electronics,Irbid,400.6,1,400.6,Cash on Delivery
+ORD01026,2024-09-29,Home & Kitchen,Amman,169.71,1,169.71,Digital Wallet
+ORD01491,2024-09-29,Home & Kitchen,Zarqa,112.06,1,112.06,Cash on Delivery
+ORD01047,2024-09-29,Electronics,Aqaba,441.32,1,441.32,Digital Wallet
+ORD01109,2024-09-29,Home & Kitchen,Irbid,202.08,1,202.08,Credit Card
+ORD01313,2024-09-29,Sports & Outdoors,Amman,173.42,1,173.42,Cash on Delivery
+ORD01453,2024-09-30,Beauty & Health,Amman,93.31,2,186.62,Credit Card
+ORD01185,2024-09-30,Fashion,Amman,147.14,1,147.14,Digital Wallet
+ORD01210,2024-09-30,Fashion,Irbid,102.8,1,102.8,Digital Wallet
+ORD01309,2024-09-30,Fashion,Amman,80.18,1,80.18,Cash on Delivery
+ORD01431,2024-09-30,Beauty & Health,Irbid,15.57,1,15.57,Cash on Delivery
+ORD01235,2024-10-01,Beauty & Health,Amman,20.04,3,60.12,Credit Card
+ORD01362,2024-10-01,Electronics,Amman,513.4,1,513.4,Digital Wallet
+ORD01120,2024-10-01,Fashion,Madaba,53.94,1,53.94,Cash on Delivery
+ORD01263,2024-10-01,Fashion,Aqaba,126.5,1,126.5,Credit Card
+ORD01141,2024-10-02,Fashion,Aqaba,112.05,1,112.05,
+ORD01035,2024-10-02,Beauty & Health,Irbid,116.08,2,232.16,Digital Wallet
+ORD01147,2024-10-02,Fashion,Amman,132.72,1,132.72,Credit Card
+ORD01202,2024-10-02,Home & Kitchen,Irbid,121.38,2,242.76,Cash on Delivery
+ORD01193,2024-10-02,Books & Stationery,Irbid,48.42,1,48.42,Credit Card
+ORD01187,2024-10-03,Fashion,Jerash,168.75,2,337.5,Cash on Delivery
+ORD01414,2024-10-03,Home & Kitchen,Amman,278.37,2,556.74,Credit Card
+ORD01459,2024-10-03,Beauty & Health,Amman,42.16,3,126.48,Credit Card
+ORD01316,2024-10-04,Electronics,Amman,433.89,1,433.89,Digital Wallet
+ORD01478,2024-10-04,Home & Kitchen,Amman,261.05,1,261.05,Credit Card
+ORD01356,2024-10-04,Home & Kitchen,Amman,264.09,2,528.18,Cash on Delivery
+ORD01330,2024-10-04,Sports & Outdoors,Irbid,113.82,1,113.82,Credit Card
+ORD01400,2024-10-04,Books & Stationery,Irbid,39.23,2,78.46,Credit Card
+ORD01415,2024-10-04,Fashion,Irbid,85.48,3,256.44,Cash on Delivery
+ORD01337,2024-10-04,Electronics,Amman,580.51,3,1741.53,Cash on Delivery
+ORD01343,2024-10-04,Fashion,Amman,89.33,2,178.66,Cash on Delivery
+ORD01004,2024-10-04,Home & Kitchen,Amman,140.82,2,281.64,Digital Wallet
+ORD01101,2024-10-05,Books & Stationery,Amman,45.75,1,45.75,Credit Card
+ORD01199,2024-10-05,Electronics,Amman,502.42,1,502.42,Credit Card
+ORD01428,2024-10-05,Sports & Outdoors,Irbid,164.08,1,164.08,Credit Card
+ORD01426,2024-10-05,Books & Stationery,Amman,19.05,1,19.05,Credit Card
+ORD01100,2024-10-05,Sports & Outdoors,Amman,181.77,2,363.54,Digital Wallet
+ORD01479,2024-10-06,Sports & Outdoors,Amman,113.86,1,113.86,Digital Wallet
+ORD01398,2024-10-06,Electronics,Amman,213.3,1,213.3,Credit Card
+ORD01113,2024-10-06,Fashion,Amman,99.94,2,199.88,Cash on Delivery
+ORD01059,2024-10-07,Home & Kitchen,Amman,178.6,2,357.2,Credit Card
+ORD01433,2024-10-07,Books & Stationery,Jerash,39.62,2,79.24,Cash on Delivery
+ORD01234,2024-10-07,Fashion,Amman,88.89,1,88.89,Credit Card
+ORD01092,2024-10-08,Sports & Outdoors,Madaba,154.21,2,308.42,Digital Wallet
+ORD01156,2024-10-08,Electronics,Amman,292.31,1,292.31,Credit Card
+ORD01022,2024-10-08,Home & Kitchen,Zarqa,70.51,1,70.51,Cash on Delivery
+ORD01461,2024-10-09,Electronics,Irbid,417.58,3,1252.74,Cash on Delivery
+ORD01130,2024-10-09,Fashion,Aqaba,200.0,1,200.0,Credit Card
+ORD01213,2024-10-09,Electronics,Amman,485.51,1,485.51,Digital Wallet
+ORD01365,2024-10-09,Electronics,Madaba,239.45,4,957.8,Digital Wallet
+ORD01498,2024-10-09,Beauty & Health,Amman,102.15,1,102.15,
+ORD01387,2024-10-09,Fashion,Amman,108.53,1,108.53,Digital Wallet
+ORD01005,2024-10-09,Home & Kitchen,Irbid,270.02,1,270.02,Credit Card
+ORD01222,2024-10-09,Home & Kitchen,Amman,102.83,3,308.49,Cash on Delivery
+ORD01254,2024-10-10,Fashion,Amman,30.86,1,30.86,Credit Card
+ORD01399,2024-10-10,Books & Stationery,Amman,25.29,1,25.29,Cash on Delivery
+ORD01069,2024-10-10,Books & Stationery,Amman,33.33,2,66.66,Credit Card
+ORD01395,2024-10-10,Electronics,Jerash,600.44,1,600.44,Credit Card
+ORD01075,2024-10-10,Home & Kitchen,Amman,257.45,2,514.9,Credit Card
+ORD01154,2024-10-10,Sports & Outdoors,Zarqa,195.58,1,195.58,Credit Card
+ORD01454,2024-10-10,Fashion,Aqaba,137.48,1,137.48,Cash on Delivery
+ORD01111,2024-10-10,Electronics,Madaba,224.21,2,448.42,Cash on Delivery
+ORD01203,2024-10-10,Fashion,Zarqa,88.8,1,88.8,Credit Card
+ORD01482,2024-10-11,Fashion,Salt,75.45,1,75.45,Credit Card
+ORD01410,2024-10-11,Fashion,Zarqa,157.21,2,314.42,Credit Card
+ORD01307,2024-10-12,Home & Kitchen,Aqaba,164.58,1,164.58,Cash on Delivery
+ORD01218,2024-10-12,Electronics,Amman,427.36,2,854.72,Credit Card
+ORD01169,2024-10-12,Books & Stationery,Madaba,54.31,1,54.31,Credit Card
+ORD01061,2024-10-12,Books & Stationery,Amman,13.04,2,26.08,Cash on Delivery
+ORD01460,2024-10-12,Fashion,Amman,157.39,3,472.17,Cash on Delivery
+ORD01500,2024-10-13,Sports & Outdoors,Amman,238.52,2,477.04,Credit Card
+ORD01277,2024-10-13,Electronics,Aqaba,325.53,2,651.06,Cash on Delivery
+ORD01298,2024-10-13,Books & Stationery,Zarqa,40.24,2,80.48,Credit Card
+ORD01091,2024-10-13,Electronics,Salt,522.86,3,1568.58,Cash on Delivery
+ORD01225,2024-10-13,Fashion,Salt,20.0,2,40.0,Credit Card
+ORD01314,2024-10-13,Fashion,Irbid,35.23,1,35.23,Cash on Delivery
+ORD01162,2024-10-13,Home & Kitchen,Zarqa,55.6,2,111.2,Credit Card
+ORD01136,2024-10-13,Fashion,Zarqa,25.97,2,51.94,
+ORD01266,2024-10-14,Fashion,Zarqa,152.98,1,152.98,Cash on Delivery
+ORD01469,2024-10-14,Electronics,Amman,696.31,1,696.31,Digital Wallet
+ORD01430,2024-10-14,Sports & Outdoors,Salt,192.78,2,385.56,Digital Wallet
+ORD01291,2024-10-15,Sports & Outdoors,Amman,141.85,2,283.7,Credit Card
+ORD01137,2024-10-15,Books & Stationery,Amman,26.01,1,26.01,Credit Card
+ORD01301,2024-10-15,Electronics,Zarqa,434.1,1,434.1,Credit Card
+ORD01144,2024-10-15,Fashion,Amman,118.39,1,118.39,Credit Card
+ORD01292,2024-10-16,Fashion,Amman,71.24,1,71.24,Credit Card
+ORD01180,2024-10-16,Home & Kitchen,Madaba,117.59,2,235.18,Credit Card
+ORD01255,2024-10-16,Electronics,Amman,374.49,2,748.98,Cash on Delivery
+ORD01167,2024-10-16,Fashion,Jerash,113.14,2,226.28,Cash on Delivery
+ORD01474,2024-10-17,Sports & Outdoors,Irbid,197.43,1,197.43,Cash on Delivery
+ORD01071,2024-10-17,Fashion,Amman,101.34,1,101.34,
+ORD01009,2024-10-17,Electronics,Madaba,470.37,1,470.37,Cash on Delivery
+ORD01099,2024-10-17,Home & Kitchen,Zarqa,88.05,1,88.05,Cash on Delivery
+ORD01289,2024-10-17,Fashion,Amman,185.92,1,185.92,Digital Wallet
+ORD01424,2024-10-17,Home & Kitchen,Amman,102.05,3,306.15,Credit Card
+ORD01473,2024-10-18,Electronics,Irbid,440.43,2,880.86,Credit Card
+ORD01465,2024-10-18,Fashion,Zarqa,90.45,1,90.45,Cash on Delivery
+ORD01427,2024-10-18,Fashion,Irbid,156.31,1,156.31,Credit Card
+ORD01143,2024-10-18,Home & Kitchen,Jerash,15.0,1,15.0,Cash on Delivery
+ORD01422,2024-10-18,Electronics,Zarqa,390.5,1,390.5,Cash on Delivery
+ORD01384,2024-10-18,Home & Kitchen,Amman,161.72,2,323.44,Credit Card
+ORD01412,2024-10-18,Electronics,Amman,538.63,1,538.63,Cash on Delivery
+ORD01331,2024-10-19,Fashion,Amman,149.2,2,298.4,Credit Card
+ORD01280,2024-10-19,Books & Stationery,Irbid,51.29,1,51.29,Credit Card
+ORD01401,2024-10-19,Books & Stationery,Amman,29.2,2,58.4,Cash on Delivery
+ORD01308,2024-10-19,Books & Stationery,Amman,42.83,1,42.83,Credit Card
+ORD01132,2024-10-19,Electronics,Irbid,547.14,2,1094.28,Digital Wallet
+ORD01191,2024-10-19,Books & Stationery,Zarqa,21.25,2,42.5,Digital Wallet
+ORD01404,2024-10-19,Home & Kitchen,Aqaba,240.1,2,480.2,Cash on Delivery
+ORD01241,2024-10-19,Fashion,Irbid,89.75,1,89.75,Credit Card
+ORD01042,2024-10-20,Electronics,Amman,679.3,2,1358.6,Credit Card
+ORD01030,2024-10-20,Books & Stationery,Irbid,47.04,2,94.08,Cash on Delivery
+ORD01175,2024-10-20,Fashion,Zarqa,83.48,1,83.48,Credit Card
+ORD01073,2024-10-21,Fashion,Amman,161.43,1,161.43,Credit Card
+ORD01215,2024-10-21,Electronics,Zarqa,404.61,1,404.61,Credit Card
+ORD01284,2024-10-21,Beauty & Health,Irbid,46.56,1,46.56,Credit Card
+ORD01001,2024-10-21,Sports & Outdoors,Amman,165.44,2,330.88,Credit Card
+ORD01303,2024-10-21,Home & Kitchen,Amman,140.47,3,421.41,Digital Wallet
+ORD01242,2024-10-21,Sports & Outdoors,Amman,172.54,1,172.54,Digital Wallet
+ORD01231,2024-10-22,Home & Kitchen,Amman,63.43,2,126.86,Cash on Delivery
+ORD01487,2024-10-22,Fashion,Zarqa,59.48,3,178.44,Cash on Delivery
+ORD01304,2024-10-22,Fashion,Amman,69.16,3,207.48,Credit Card
+ORD01394,2024-10-22,Home & Kitchen,,102.08,1,102.08,Cash on Delivery
+ORD01196,2024-10-22,Home & Kitchen,Salt,93.57,1,93.57,Credit Card
+ORD01048,2024-10-22,Fashion,Madaba,96.54,1,96.54,Credit Card
+ORD01028,2024-10-22,Fashion,Zarqa,96.45,1,96.45,Credit Card
+ORD01176,2024-10-22,Fashion,Amman,148.23,2,296.46,Credit Card
+ORD01312,2024-10-22,Electronics,Irbid,434.02,1,434.02,Cash on Delivery
+ORD01052,2024-10-23,Electronics,Amman,330.92,2,661.84,Digital Wallet
+ORD01247,2024-10-23,Home & Kitchen,Irbid,268.02,1,268.02,Cash on Delivery
+ORD01131,2024-10-23,Electronics,Amman,603.88,2,1207.76,Credit Card
+ORD01036,2024-10-24,Electronics,Amman,599.62,1,599.62,Cash on Delivery
+ORD01056,2024-10-24,Electronics,Amman,606.62,3,1819.86,Credit Card
+ORD01094,2024-10-24,Sports & Outdoors,Amman,150.56,2,301.12,Cash on Delivery
+ORD01062,2024-10-24,Home & Kitchen,Amman,127.53,2,255.06,Credit Card
+ORD01230,2024-10-24,Electronics,Aqaba,517.23,2,1034.46,Credit Card
+ORD01262,2024-10-24,Home & Kitchen,Aqaba,151.15,2,302.3,Credit Card
+ORD01012,2024-10-24,Fashion,Amman,124.14,1,124.14,Credit Card
+ORD01281,2024-10-24,Fashion,Amman,135.95,2,271.9,Credit Card
+ORD01252,2024-10-24,Books & Stationery,Irbid,51.32,2,102.64,Credit Card
+ORD01359,2024-10-24,Beauty & Health,Irbid,83.83,1,83.83,Digital Wallet
+ORD01226,2024-10-24,Electronics,Irbid,326.42,1,326.42,Digital Wallet
+ORD01206,2024-10-24,Books & Stationery,Amman,13.15,2,26.3,Cash on Delivery
+ORD01475,2024-10-25,Beauty & Health,Amman,61.89,1,61.89,Digital Wallet
+ORD01079,2024-10-25,Beauty & Health,Irbid,25.73,1,25.73,Cash on Delivery
+ORD01082,2024-10-25,Fashion,Amman,179.75,1,179.75,Credit Card
+ORD01237,2024-10-26,Home & Kitchen,Zarqa,149.34,1,149.34,Credit Card
+ORD01239,2024-10-26,Fashion,Irbid,110.24,1,110.24,Cash on Delivery
+ORD01336,2024-10-26,Home & Kitchen,Jerash,276.95,2,553.9,Credit Card
+ORD01376,2024-10-26,Electronics,Irbid,143.16,1,143.16,Digital Wallet
+ORD01386,2024-10-27,Sports & Outdoors,Amman,129.38,2,258.76,Digital Wallet
+ORD01434,2024-10-27,Home & Kitchen,Salt,105.79,2,211.58,Credit Card
+ORD01272,2024-10-27,Electronics,Amman,431.61,2,863.22,Credit Card
+ORD01025,2024-10-27,Electronics,Zarqa,563.46,1,563.46,Cash on Delivery
+ORD01015,2024-10-27,Books & Stationery,Aqaba,25.01,1,25.01,Credit Card
+ORD01488,2024-10-27,Home & Kitchen,Amman,184.75,1,184.75,Digital Wallet
+ORD01373,2024-10-28,Home & Kitchen,Amman,65.59,1,65.59,Digital Wallet
+ORD01017,2024-10-28,Sports & Outdoors,Amman,103.71,1,103.71,Digital Wallet
+ORD01332,2024-10-28,Electronics,Salt,363.87,3,1091.61,Cash on Delivery
+ORD01076,2024-10-28,Home & Kitchen,Amman,57.62,1,57.62,Cash on Delivery
+ORD01441,2024-10-28,Home & Kitchen,Amman,116.49,2,232.98,Credit Card
+ORD01106,2024-10-28,Beauty & Health,Jerash,91.94,1,91.94,Credit Card
+ORD01369,2024-10-28,Home & Kitchen,Amman,146.24,2,292.48,Credit Card
+ORD01038,2024-10-28,Fashion,Zarqa,96.09,1,96.09,Digital Wallet
+ORD01388,2024-10-29,Fashion,Irbid,85.55,2,171.1,Credit Card
+ORD01148,2024-10-29,Home & Kitchen,Amman,219.19,1,219.19,Cash on Delivery
+ORD01161,2024-10-29,Beauty & Health,Irbid,137.13,1,137.13,Credit Card
+ORD01174,2024-10-29,Electronics,Aqaba,308.24,1,308.24,Credit Card
+ORD01326,2024-10-29,Sports & Outdoors,Irbid,128.74,2,257.48,Credit Card
+ORD01204,2024-10-29,Fashion,Amman,120.44,3,361.32,Digital Wallet
+ORD01068,2024-10-30,Books & Stationery,Irbid,32.14,1,32.14,Credit Card
+ORD01105,2024-10-31,Home & Kitchen,Zarqa,152.01,3,456.03,Credit Card
+ORD01425,2024-10-31,Home & Kitchen,Irbid,171.45,2,342.9,Cash on Delivery
+ORD01063,2024-10-31,Fashion,Zarqa,102.74,1,102.74,Credit Card
+ORD01276,2024-08-07,Fashion,Zarqa,100.06,1,100.06,Credit Card
+ORD01230,2024-10-24,Electronics,Aqaba,517.23,2,1034.46,Credit Card
+ORD01363,2024-09-28,Fashion,Amman,181.69,2,363.38,Credit Card
+ORD01402,2024-08-04,Books & Stationery,Jerash,27.35,2,54.7,Cash on Delivery
+ORD01049,2024-08-14,Electronics,Irbid,383.81,1,383.81,Cash on Delivery
